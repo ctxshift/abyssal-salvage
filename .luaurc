@@ -1,0 +1,6 @@
+{
+  "languageMode": "strict",
+  "aliases": {
+    "bytorio": "./.bytorio/bytorio"
+  }
+}

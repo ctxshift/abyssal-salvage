@@ -1,0 +1,21 @@
+[tools]
+"github:ctxshift/bytorio" = "byt-v0.2.0-preview.2"
+node = "25.6.1"
+
+[tasks.assets]
+run = "node tools/assets.mjs"
+
+[tasks.check]
+run = "byt check"
+
+[tasks.build]
+run = "byt build --target all"
+
+[tasks.play]
+run = "byt run"
+
+[tasks.dev]
+run = "byt dev"
+
+[tasks.validate]
+run = "node tools/validate.mjs"
