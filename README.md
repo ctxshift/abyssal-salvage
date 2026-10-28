@@ -50,10 +50,11 @@ mise run assets    # Regenerate original sprites and bitmap font
 entire native directory, including runtime files and license notices.
 `build/game.png` is the portable Bytorio cartridge.
 
-The project pins CLI **0.2.0-preview.2** and SDK **0.2.0-preview.4**, the newest
-compatible releases available when created. Release provenance:
+The project pins CLI **0.2.0-preview.2** and SDK **0.2.0-preview.5**. The SDK
+provides the released viewport player, mobile overlays and unified input highlights.
+Release provenance:
 [CLI](https://github.com/ctxshift/bytorio/releases/tag/byt-v0.2.0-preview.2),
-[SDK](https://github.com/ctxshift/bytorio/releases/tag/sdk-v0.2.0-preview.4).
+[SDK](https://github.com/ctxshift/bytorio/releases/tag/sdk-v0.2.0-preview.5).
 Node is used only for asset generation and validation, not for native playback.
 
 ## Implementation

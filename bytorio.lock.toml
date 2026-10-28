@@ -1,5 +1,5 @@
 schema = 1
 
 [sdk]
-version = "0.2.0-preview.4"
-sha256 = "3debbb55838eadd9495d4dcdb4d74f3a945af9c9f79a67ee26ec2855b39e719b"
+version = "0.2.0-preview.5"
+sha256 = "0bb35ebf8c52171cd7d071c0d4d6d33ba2bf9a49cfce191573488d79adaae9cb"
